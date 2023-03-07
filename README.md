@@ -16,3 +16,8 @@ Program will calculate the age of the user.
 6. Group anagrams
 Anagrams are words formed by rearranging the letters of another word. The program will
 group all the words which are anagrams of each other.
+7. Find the missing number
+Given an array containing a range of numbers from 0 to n with a missing number,
+find the missing number in the input array. Array is sorted.
+To find the missing number in an array, we need to iterate over the input array and store the
+numbers in another array that we didn’t find in the input array while iterating over it
