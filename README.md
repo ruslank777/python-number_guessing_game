@@ -12,4 +12,7 @@ This script will send email to the receiver specified in the prompt.
 It is important to generate a Google app password for your Gmail account,
 as you will be sending automatic emails using Python through your Gmail account
 5. Calculate your age
-Program will calculate the age of the user. 
+Program will calculate the age of the user.
+6. Group anagrams
+Anagrams are words formed by rearranging the letters of another word. The program will
+group all the words which are anagrams of each other.
