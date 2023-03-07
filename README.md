@@ -11,3 +11,5 @@ If you have entered the correct password then it verifies you as the real user.
 This script will send email to the receiver specified in the prompt.
 It is important to generate a Google app password for your Gmail account,
 as you will be sending automatic emails using Python through your Gmail account
+5. Calculate your age
+Program will calculate the age of the user. 
