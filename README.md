@@ -7,3 +7,7 @@
 A password authentication system is a system that is used for the identification of a user. 
 It asks for your email or a username, and then it asks for your password.
 If you have entered the correct password then it verifies you as the real user.
+4. Send Email with Google password
+This script will send email to the receiver specified in the prompt.
+It is important to generate a Google app password for your Gmail account,
+as you will be sending automatic emails using Python through your Gmail account
