@@ -21,3 +21,9 @@ Given an array containing a range of numbers from 0 to n with a missing number,
 find the missing number in the input array. Array is sorted.
 To find the missing number in an array, we need to iterate over the input array and store the
 numbers in another array that we didn’t find in the input array while iterating over it
+8. Group elements with the same indexes
+To group elements of the same index,
+we will initially have two or more lists inside a list like [[a, b], [c, d]].
+Then we need to define the amount of potential groups,
+e.g. indeces by calculating the length of sub-array. After that iterate via main array and
+feed the resulting array with approapriate values.
